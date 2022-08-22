@@ -28,17 +28,19 @@
 
 ---
 
-- I like to program with languages:  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-<img src="./assets/asm.svg" alt="asm" width="40" height="40"/>
+- I like to program with languages: 
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
+  <img src="./assets/asm.svg" alt="asm" width="40" height="40"/>
+</p>
 
-- IDE's and another tools I use:
+- IDE's and another tools I use:<p align="left">
 <img src="./assets/platformio.svg" alt="PlatforIO" width="40" height="40"/>
 <img src="./assets/studio.png" alt="PlatforIO" width="40" height="40"/>
-<img src="	https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio Code"/>
-
-- Families of microcontrollers I've used:
+</p>
+- Families of microcontrollers I've used: <p align="left">
 <img src="./assets/atmel.svg" alt="PlatforIO" width="40" height="40"/>
+</p>
 
 <h2>Some of my stats are:</h2>
 
