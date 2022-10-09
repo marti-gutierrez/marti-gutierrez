@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
 I'm a person who is passionate about programming in the different areas where it's applied, at the moment I only have knowledge in the following areas:
 
-- 💻 Web development (*fronted*)
+- 💻 Web development (_fronted_)
 
 - 📟 embedded systems
 
-For now in embedded systems: I use *AVR*
+For now in embedded systems: I use _AVR_
 8-bits (microcontrollers
 <img src="./assets/atmel.svg" height="30" align="center">),
-in web-development I've started in frontend with *CSS,HTML* and *Javascript* pillars and just started using **React**.
+in web-development I've started in frontend with _CSS,HTML_ and _Javascript_ pillars and just started using **React**.
+
 <!--  - 🔭 I’m currently working on [ADC_on_AVR_microcontrollers](https://github.com/marti-gutierrez/ADC_on_AVR_microcontrollers)
 -->
-
 
 - 🌱 I’m currently learning **spa applications,react and ESP32 microcontrollers**
 
@@ -26,16 +26,28 @@ in web-development I've started in frontend with *CSS,HTML* and *Javascript* pil
 
 ## **My projects**:
 
+<h3>Web-development</h2>
+
+---
+
 <ul>
-  <h4>Web-development</h4>
   <li>
-    <a><strong>To-Do</strong></a>
-    <p></p>
+    <h4>
+      <a href="https://github.com/marti-gutierrez/toDoList-React"><strong>To Do</strong>
+      </a>
+    </h4>
+    <img src="https://i.imgur.com/h05XwnV.png" height="200" align="center">
+    <p>
+      The to-Do list application is an enumeration of task to be accomplished in a certain period of time. I was  built with:
+      <em>React,vite and tailwind</em>
+    </p>
   </li>
 </ul>
 
 ## Some technologies I use:
+
 ---
+
 <ul>
   <li><em>IDE's</em>
     <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
@@ -69,6 +81,7 @@ in web-development I've started in frontend with *CSS,HTML* and *Javascript* pil
 <h2>Some of my stats are:</h2>
 
 ---
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marti-gutierrez&show_icons=true&locale=en&layout=compact" alt="marti-gutierrez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marti-gutierrez&show_icons=true&locale=en" alt="marti-gutierrez" /></p>
