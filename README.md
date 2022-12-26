@@ -26,27 +26,23 @@ in web-development I've started in frontend with _CSS,HTML_ and _Javascript_ pil
 
 ## **My projects**:
 
-<h3>Web-development</h2>
+### Web-development
 
----
+<img src="https://i.imgur.com/h05XwnV.png" height="200">
 
-<ul>
-  <li>
-    <h4>
-      <a href="https://github.com/marti-gutierrez/toDoList-React"><strong>To Do</strong>
-      </a>
-    </h4>
-    <img src="https://i.imgur.com/h05XwnV.png" height="200" align="center">
-    <p>
-      The to-Do list application is an enumeration of task to be accomplished in a certain period of time. I was  built with:
-      <em>React,vite and tailwind</em>
-    </p>
-  </li>
-</ul>
+- [To Do](https://github.com/marti-gutierrez/toDoList-React) list application is an enumeration of task to be accomplished in a certain period of time. I was built with: **React**,**vite**, **Tailwind CSS**
+- [Planti client](https://github.com/marti-gutierrez/planti-client) is an application that makes requests to a REST-API to obtain information about indoor plants,is an interface to make CRUD operatios easier and to serve as a planti wiki. I was build with **React**, **vite**, **Tailwind CSS**, **Typescript**
+
+### Microcontrollers
+
+- [**RGB night lamp**]() build with uC _ATtiny2313_ where we use 3 pwm outputs to vary the intensity of leds (Red,Green,Blue) and the _UART_ communication to connect to a bluetooth module.
+
+- **Library** I usually view and analyze the libraries that [@Carlos QL](https://www.youtube.com/@CarlosQL) creates and I like to document throug _READMEs_ in github and use the platformIO site to upload them on the internet and use them in future projects:
+  - [LCD HD44780](https://github.com/marti-gutierrez/LCD-avrgcc)
+  - [UART m328p](https://github.com/marti-gutierrez/lib_uart-avr)
+  - [Bits-field](https://github.com/marti-gutierrez/Bits-Field-para-Atmega358p-avrgcc)
 
 ## Some technologies I use:
-
----
 
 <ul>
   <li><em>IDE's</em>
