@@ -2,7 +2,7 @@
 
 Hello 👋, *I'm Martin*, a calm developer with skills in 8-bit and 32-bit microcontroller programming 📟, as well as frontend development💻. 
 
-I enjoy gardening, drawing, and cinema, finding inspiration in the tranquility of my garden. I'm passionate about problem-solving and creating solutions through programming. 
+I enjoy gardening, drawing, and cinema, finding inspiration in the tranquility of my garden. I'm passionate about problem-solving and creating solutions. 
 
 I would love to collaborate in multidisciplinary teams and create innovative solutions. I'm excited about future opportunities in this field.
 
@@ -12,7 +12,8 @@ I would love to collaborate in multidisciplinary teams and create innovative sol
 
 ### Web-development
 
-- [To Do](https://github.com/marti-gutierrez/toDoList-React) list application is an enumeration of task to be accomplished in a certain period of time. I was built with: **React**,**vite**, **Tailwind CSS**
+- [To Do](https://github.com/marti-gutierrez/toDoList-React) list application is an enumeration of task to be accomplished in a certain period of time. It was built with: **React**,**vite**, **Tailwind CSS**
+- [Veterinaria San Martin de Porres](https://sanmartin.lat) This is a landing page for a veterinarian. It was built with **Astro** and other plugins like *Tailwind CSS* due only this show informartion and price of services.
 
 ### Microcontrollers
 
@@ -24,6 +25,11 @@ I would love to collaborate in multidisciplinary teams and create innovative sol
 ## Some technologies I use:
 
 <ul>
+  <li><em>Microcontrollers</em>
+    <img src="https://img.shields.io/badge/AVR_8--bits-Microchip-blue">
+    <img src="https://img.shields.io/badge/Esp32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+    <img src="https://img.shields.io/badge/STM32--F4-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white">
+  </li>
   <li><em>IDE's</em>
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
@@ -32,7 +38,6 @@ I would love to collaborate in multidisciplinary teams and create innovative sol
   </li>
   <li><em>languages</em>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </li>
