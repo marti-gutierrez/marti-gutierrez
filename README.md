@@ -1,14 +1,14 @@
+# Martín
+
 ![banner de martin](/assets/banner.png)
 
-Hello 👋, *I'm Martin*, a calm developer with skills in 8-bit and 32-bit microcontroller programming 📟, as well as frontend development💻. 
+Hello 👋, *I'm Martin*, a calm developer with skills in 8-bit and 32-bit microcontroller programming 📟, as well as frontend development💻.
 
-I enjoy gardening, drawing, and cinema, finding inspiration in the tranquility of my garden. I'm passionate about problem-solving and creating solutions. 
+I enjoy gardening, drawing, and cinema, finding inspiration in the tranquility of my garden. I'm passionate about problem-solving and creating solutions.
 
 I would love to collaborate in multidisciplinary teams and create innovative solutions. I'm excited about future opportunities in this field.
 
-
-
-## **My projects**:
+## **My projects**
 
 ### Web-development
 
@@ -17,12 +17,12 @@ I would love to collaborate in multidisciplinary teams and create innovative sol
 
 ### Microcontrollers
 
-- **Library** I usually view and analyze the libraries that [@Carlos QL](https://www.youtube.com/@CarlosQL) creates and I like to document throug _READMEs_ in github and use the platformIO site to upload them on the internet and use them in future projects:
+- **Library** I usually view and analyze the libraries that [@Carlos QL](https://www.youtube.com/@CarlosQL) creates and I like to document throug *READMEs* in github and use the platformIO site to upload them on the internet and use them in future projects:
   - [LCD HD44780](https://github.com/marti-gutierrez/LCD-avrgcc)
   - [UART m328p](https://github.com/marti-gutierrez/lib_uart-avr)
   - [Bits-field](https://github.com/marti-gutierrez/Bits-Field-para-Atmega358p-avrgcc)
 
-## Some technologies I use:
+## Some technologies I use
 
 <ul>
   <li><em>Microcontrollers</em>
@@ -53,9 +53,7 @@ I would love to collaborate in multidisciplinary teams and create innovative sol
   </li>
 </ul>
 
-<h2>Some of my stats are:</h2>
-
----
+## Some of my stats are
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marti-gutierrez&show_icons=true&locale=en&layout=compact" alt="marti-gutierrez" /></p>
 
